@@ -31,7 +31,7 @@ It provides the compatibility layer that loads the Android package under Horizon
 ## Controls
 
 The current input bridge provides touchscreen support
-
+minus button for a cursor
 
 ### During a Run
 
